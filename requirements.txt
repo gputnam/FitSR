@@ -1,0 +1,5 @@
+numpy
+matplotlib
+uproot==4.2.4
+scipy
+nbstripout
