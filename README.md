@@ -11,11 +11,7 @@ python -m venv env
 pip install -r requirements.txt
 # Tell jupyter about the virtual environment
 python -m ipykernel install --user --name=env
-```
-
-Run the notebook
-
-```
+#Run the notebook
 jupyter notebook
 ```
 
